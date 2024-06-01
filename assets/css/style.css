@@ -8,19 +8,20 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+/* Header - removed div tag(s), replaced with header tag */
+
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+#company-name h1 .seo {
     color: #d9dcd6;
 }
 
@@ -32,7 +33,7 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header-links ul {
     list-style-type: none;
 }
 
