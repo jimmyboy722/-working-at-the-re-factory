@@ -93,17 +93,9 @@ main{
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/*consolidated individual div classes within the aside element since they're all the same*/
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.company-value {
     margin-bottom: 32px;
     color: #ffffff;
 }
