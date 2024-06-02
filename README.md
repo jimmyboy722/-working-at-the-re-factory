@@ -23,3 +23,5 @@ When styling an HTML document, you can end up adding a TON of rules in your CSS 
 
 # Mockup
 The following is a link to the deployed web page along with an screenshot of the refactored webpage
+[https://jimmyboy722.github.io/-working-at-the-re-factory/]
+
