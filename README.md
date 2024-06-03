@@ -24,4 +24,6 @@ When styling an HTML document, you can end up adding a TON of rules in your CSS 
 # Mockup
 The following is a link to the deployed web page along with an screenshot of the refactored webpage
 [https://jimmyboy722.github.io/-working-at-the-re-factory/]
-![deployed page](C:\Users\jeckm\bootcamp\working at the re-factory\assets\images\horiseon page img.png)
+
+
+![horiseon page img](https://github.com/jimmyboy722/-working-at-the-re-factory/assets/169507618/b76ff772-99c4-49af-9b76-529544eb52c4)
